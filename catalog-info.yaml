@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: chosen
+  annotations:
+    github.com/project-slug: parrishioner/chosen
+spec:
+  type: other
+  lifecycle: unknown
