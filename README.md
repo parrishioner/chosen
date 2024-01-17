@@ -1,4 +1,4 @@
-# Chosen
+# Chosen  - extra text
 
 Chosen is a library for making long, unwieldy select boxes more user friendly...
 
