@@ -7,7 +7,7 @@ asdf asdf
 asdf
 
 - jQuery support: 1.4+
-- Prototype support: 1.7+
+- Prototype support: 1.8+
 
 For documentation, usage, and examples, see:  
 http://harvesthq.github.com/chosen
