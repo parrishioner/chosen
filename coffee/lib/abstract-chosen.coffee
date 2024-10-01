@@ -9,7 +9,7 @@ class AbstractChosen
   constructor: (@form_field, @options={}) ->
     this.set_default_values()
 
-    # comment on this line
+    # comment on this line sd asdfga sdaf ds
     @is_multiple = @form_field.multiple
     this.set_default_text()
 
@@ -20,7 +20,7 @@ class AbstractChosen
 
     this.finish_setup()
 
-  # another comment
+  # another comment s dfgs dfgsdfgsdfg
   set_default_values: ->
     @click_test_action = (evt) => this.test_active_click(evt)
     @activate_action = (evt) => this.activate_field(evt)
