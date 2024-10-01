@@ -10,6 +10,7 @@ class SelectParser
     else
       this.add_option child
 
+  # yet another comment
   add_group: (group) ->
     group_position = @parsed.length
     @parsed.push
