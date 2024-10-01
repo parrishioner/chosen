@@ -20,6 +20,7 @@ class AbstractChosen
 
     this.finish_setup()
 
+  # another comment
   set_default_values: ->
     @click_test_action = (evt) => this.test_active_click(evt)
     @activate_action = (evt) => this.activate_field(evt)
