@@ -8,7 +8,8 @@ class AbstractChosen
 
   constructor: (@form_field, @options={}) ->
     this.set_default_values()
-    
+
+    # comment on this line
     @is_multiple = @form_field.multiple
     this.set_default_text()
 
